@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">API app</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string-array name="assets_name">
+        <item>Weather Asset</item>
+        <item>Weather Asset 2</item>
+        <item>Weather Asset 3</item>
+    </string-array>
+    <string-array name="assets_atribute">
+        <item>Temperature</item>
+        <item>Humidity</item>
+        <item>Windspeed</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

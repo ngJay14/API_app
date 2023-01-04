@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/activity_asset_inform.xml" value="0.13177083333333334" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/activity_chart.xml" value="0.13177083333333334" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/activity_dash_board.xml" value="0.259375" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/activity_loading.xml" value="0.1" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/activity_map.xml" value="0.136" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/activity_user_inform.xml" value="0.259375" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/asset_dialog.xml" value="0.259375" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/asset_dialog_2.xml" value="0.259375" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/attributes_item.xml" value="0.13177083333333334" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/fragment_asset_inform.xml" value="0.13177083333333334" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/fragment_graph.xml" value="0.11510416666666666" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/fragment_map.xml" value="0.13177083333333334" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/layout/nav_header.xml" value="0.4" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/menu/menu.xml" value="0.259375" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/menu/nav_menu.xml" value="0.25833333333333336" />
+        <entry key="..\:/Downloads/API_app/API_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.128" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/corner_radius_dialog.xml" value="0.124" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.125" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.2195" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/marker.xml" value="0.125" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/nav_asset.xml" value="0.143" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/radius_corner.xml" value="0.2195" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/user_create.xml" value="0.125" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/user_enable.xml" value="0.125" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/user_id.xml" value="0.125" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/user_realm.xml" value="0.125" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/user_realmid.xml" value="0.125" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/drawable/user_service_account.xml" value="0.125" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/activity_asset_inform.xml" value="0.11510416666666666" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/activity_chart.xml" value="0.11510416666666666" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/activity_dash_board.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/activity_loading.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/activity_map.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/activity_user_inform.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/asset_dialog.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/asset_dialog_2.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/attributes_item.xml" value="0.13177083333333334" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/corner_radius_dialog.xml" value="0.11302083333333333" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/fragment_asset_inform.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/fragment_graph.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/fragment_map.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/fragment_user_inform.xml" value="0.2" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/layout/nav_header.xml" value="0.23097826086956522" />
+        <entry key="..\:/Downloads/API_app/app/src/main/res/menu/nav_menu.xml" value="0.13177083333333334" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/Final_project_official/API_app/app/src/main/res/layout/activity_asset_inform.xml" value="0.2" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/Final_project_official/API_app/app/src/main/res/layout/activity_chart.xml" value="0.11510416666666666" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/Final_project_official/API_app/app/src/main/res/layout/activity_main.xml" value="0.13177083333333334" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/Final_project_official/API_app/app/src/main/res/layout/activity_user_inform.xml" value="0.13177083333333334" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/Final_project_official/API_app/app/src/main/res/layout/asset_dialog.xml" value="0.12604166666666666" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/Final_project_official/API_app/app/src/main/res/layout/asset_dialog_2.xml" value="0.2" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/Final_project_official/API_app/app/src/main/res/layout/attributes_item.xml" value="0.12135416666666667" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/API_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1365" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/API_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1365" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/API_app/app/src/main/res/layout/activity_asset_inform.xml" value="0.176" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/API_app/app/src/main/res/layout/activity_chart.xml" value="0.144" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/API_app/app/src/main/res/layout/activity_dash_board.xml" value="0.12604166666666666" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/API_app/app/src/main/res/layout/activity_user_inform.xml" value="0.125" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/API_app/app/src/main/res/layout/asset_dialog.xml" value="0.264" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/sampleproject/app/src/main/res/layout/activity_asset_inform.xml" value="0.125" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/sampleproject/app/src/main/res/layout/activity_dash_board.xml" value="0.2" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/sampleproject/app/src/main/res/layout/activity_main.xml" value="0.10416666666666667" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/sampleproject/app/src/main/res/layout/activity_user_inform.xml" value="0.2" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/NguyenHuuNguyen_20521675/sampleproject/sampleproject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/UIT_DOCS/Documents_UIT/BAIGIANGUIT/HOCKI5/PHAT_TRIEN_UNG_DUNG_TREN_THIET_BI_DI_DONG/Project/sampleproject/sampleproject/app/src/main/res/layout/activity_main.xml" value="0.1140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
